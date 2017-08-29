@@ -3,7 +3,7 @@
 The files required to create your own Johann Stool are available on the (opendesk.cc)[https://www.opendesk.cc/nouvelle-fabrique/johann-stool] website.
 This repository contains additional files and tips. The following Attribution Label was used:
 
-![Attribution Label](AttributionLabel/qr_codes_opendesk.cc_johann_stool_single.png){:height="255px" width="365px"}
+![Attribution Label](AttributionLabel/qr_codes_opendesk.cc_johann_stool_single.png)
 
 I am using the CNC-Milling Machine and the Laser-Cutter at the [FabLab Zurich](http://zurich.fablab.ch/) to create these stools.
 
