@@ -13,6 +13,10 @@ All the parts:
 
 ![The parts](JohanStool_03.jpeg)
 
+![Paint it](JohanStool_12.jpeg)
+
+![Glue it](JohanStool_13.jpeg)
+
 
 My first stool assembled:
 
